@@ -1,0 +1,52 @@
+/* CSS for the Navbar */
+nav {
+    background-color: #333;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* CSS for the Main Content */
+
+  main{
+    height: 600px;
+    background-color:rgba(204, 196, 196, 0.25);
+  }
+ #one:hover {
+      background-color: blue;
+ } 
+  
+  /* CSS for the Footer */
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    position:fixed;
+    bottom: 0px;
+    width: 100vw;
+  }
+  
+  .footer-content {
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  .social-media a {
+    margin-right: 10px;
+  }
+  
